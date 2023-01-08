@@ -10,7 +10,7 @@ public class linkedlist {
 		LinkedList<Integer> llist= new LinkedList<Integer>();
 		llist.add(2);
 		llist.add(4);
-		System.out.println(llist);
+		System.out.println(" list is  "+llist);
 	}
 
 }
